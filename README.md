@@ -11,5 +11,5 @@ This project shows a visual analysis of global COVID-19 cases as of June 4th, 20
 3. Confirmed Cases vs. Deaths clearly separated using color-coded areas.
 4. Data resource obtained from Johns Hopkins University (JHU).
 
-Data dashboard preview: 
-(./)
+#### Data dashboard preview: 
+![covid dashboard](./covid_19_dashboard.png)
