@@ -1,4 +1,4 @@
-# Covid-19-global-infections-analysis
+# Covid-19 global infections analysis
 
 This project shows a visual analysis of global COVID-19 cases as of June 4th, 2020, inspired by data from Johns Hopkins University (JHU). It highlights the distribution of confirmed cases and deaths across countries, providing both a geographic heatmap and a time-series comparison of case trends.
 
